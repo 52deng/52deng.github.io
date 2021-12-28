@@ -1,1 +1,1 @@
-# 灯云镜像站：[52deng.github.io](https://52deng.github.io)
+# [灯云镜像站](https://52deng.github.io)
